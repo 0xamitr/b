@@ -1,0 +1,23 @@
+.bar{
+    border: 1px solid grey;
+    border-radius: 5px;
+    width: 35vw;
+    padding: 1vw;
+}
+
+main{
+    display: flex;
+}
+
+.left{
+    width: 15vw;
+}
+
+.right{
+    width: 85vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    padding: 5vw;
+    gap: 1vw;
+}

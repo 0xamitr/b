@@ -1,0 +1,16 @@
+header{
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+
+footer{
+  height: 10vh;
+  background-color: lightgray;
+}
+
+Main{
+  min-height: 80vh;
+}
